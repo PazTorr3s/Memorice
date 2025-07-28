@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/aji.png",
+        "name": "aji"
+    },
+    {
+        "image": "../assets/uvas.png",
+        "name": "uvas"
+    },
+    {
+        "image": "../assets/limon.png",
+        "name": "limon"
+    },
+    {
+        "image": "../assets/naranja.png",
+        "name": "naranja"
+    },
+    {
+        "image": "../assets/pina.png",
+        "name": "pina"
+    },
+    {
+        "image": "../assets/fresa.png",
+        "name": "fresa"
+    },
+    {
+        "image": "../assets/tomate.png",
+        "name": "tomate"
+    },
+    {
+        "image": "../assets/sandia.png",
+        "name": "sandia"
+    },
+    {
+        "image": "../assets/cereza.png",
+        "name": "cereza"
+    }
+]
